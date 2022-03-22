@@ -1,0 +1,5 @@
+{
+    "preset": "ts-jest",
+    "resetMocks": true,
+    "restoreMocks": true
+}
