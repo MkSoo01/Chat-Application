@@ -10,7 +10,7 @@ Real-time chat application where users can interact with each other by sending m
 
 ## Screenshots
 
-![App Screenshot](https://github.com/MkSoo01/Chat Application/blob/master/screenshots/screenshot.PNG)
+![App Screenshot](https://github.com/MkSoo01/Chat-Application/blob/master/screenshots/screenshots.PNG)
 
 ## Tech Stack & Open-source libraries
 
@@ -35,7 +35,7 @@ Real-time chat application where users can interact with each other by sending m
 
 ## Demo
 
-![App Demo](https://github.com/MkSoo01/Pokedex/blob/master/demo/demo.gif)
+![App Demo](https://github.com/MkSoo01/Chat-Application/blob/master/demo/demo.gif)
 
 ## Setup
 
