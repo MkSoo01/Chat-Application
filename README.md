@@ -41,10 +41,12 @@ Real-time chat application where users can interact with each other by sending m
 
 - run `npm i && npm run start` for both client and server side to start the development server
 
-## Refrences
+## Acknowledgements
 
 - [project_chat_application](https://github.com/adrianhajdin/project_chat_application)
 - [ReactJS application architecture overview](https://medium.com/geekculture/react-js-architecture-features-folder-structure-design-pattern-70b7b9103f22)
+- [Express Router Decorators with TypeScript](https://javascript.plainenglish.io/how-to-write-simple-router-decorators-for-expressjs-with-typescript-3b8340b4d453)
+- [Material UI Onepirate template](https://github.com/mui/material-ui/tree/master/docs/src/pages/premium-themes/onepirate)
 
 ## License
 
